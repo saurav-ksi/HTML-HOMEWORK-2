@@ -1,0 +1,42 @@
+img{
+    height: 200px;
+    margin-bottom: 19px;
+    border-radius: 13px;
+
+}
+
+.word {
+    padding: 2px;
+    border: 1px  solid grey;
+    margin: 8px;
+    border-radius: 8px;
+    display: inline-block;
+    width: 47px;
+    font-weight: 300;
+    
+}
+p{
+    overflow: hidden;
+}
+
+.card{
+    border: 1px solid black;
+    width: 250px;
+    padding: 8px;
+    border-radius: 13px;
+    height: 422px;
+    overflow: hidden;
+    margin-bottom: 23px;
+}
+
+.footer{
+    background-color: rgb(22, 29, 228);
+    padding: 7px;
+    border-radius: 19px;
+    color: white;    
+}
+
+.second{
+    height: 150px;
+}
+
